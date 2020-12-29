@@ -11,3 +11,13 @@
 如何讀取資料以及萃取出想要了解的信息
 5. [如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_005-1_HW.ipynb)                                                                                                                   
 從頭建立一個 dataframe、如何讀取不同形式的資料 (如圖檔、純文字檔、json 等)
+6. [EDA：欄位的資料類型介紹及處理](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_006_HW.ipynb)                   
+了解資料在 pandas 中可以表示的類型
+7. [特徵類型](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_007_HW.ipynb)                                       
+特徵工程依照特徵類型，做法不同，大致可分為數值/類別/時間型三類特徵
+8. [EDA資料分佈](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_008_HW.ipynb)                                   
+用統計方式描述資料
+9. [EDA: Outlier 及處理](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_009_HW.ipynb)                           
+偵測與處理例外數值點：1. 透過常用的偵測方法找到例外 2. 判斷例外是否正常 (推測可能的發生原因)
+10. [數值型特徵 - 去除離群值](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_010_HW.ipynb)                       
+數值型特徵若出現少量的離群值，則需要去除以保持其餘數據不被影響
