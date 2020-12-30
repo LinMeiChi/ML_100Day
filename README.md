@@ -25,3 +25,5 @@
 數值型特徵若出現少量的離群值，則需要去除以保持其餘數據不被影響
 11. [常用的數值取代：中位數與分位數連續數值標準化](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_011_HW.ipynb)     
 偵測與處理例外數值 (缺值或例外取代、數據標準化)
+12. [數值型特徵-補缺失值與標準化](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_012_HW.ipynb)                    
+數值型特徵首先必須填補缺值與標準化，在此複習並展示對預測結果的差異
