@@ -27,3 +27,7 @@
 偵測與處理例外數值 (缺值或例外取代、數據標準化)
 12. [數值型特徵-補缺失值與標準化](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_012_HW.ipynb)                    
 數值型特徵首先必須填補缺值與標準化，在此複習並展示對預測結果的差異
+13. [DataFrame operationData frame merge/常用的 DataFrame 操作](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_013_HW.ipynb)  
+常見的資料操作方法、資料表串接
+14. [程式實作 EDA: correlation/相關係數簡介](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_014_HW.ipynb)       
+了解相關係數、利用相關係數直觀地理解對欄位與預測目標之間的關係
