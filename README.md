@@ -31,3 +31,5 @@
 常見的資料操作方法、資料表串接
 14. [程式實作 EDA: correlation/相關係數簡介](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_014_HW.ipynb)       
 了解相關係數、利用相關係數直觀地理解對欄位與預測目標之間的關係
+15. [EDA from Correlation](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_015_HW.ipynb)                       
+深入了解資料，從 correlation 的結果下手
