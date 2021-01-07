@@ -33,3 +33,5 @@
 了解相關係數、利用相關係數直觀地理解對欄位與預測目標之間的關係
 15. [EDA from Correlation](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_015_HW.ipynb)                       
 深入了解資料，從 correlation 的結果下手
+16. [EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_016_HW.ipynb)                       
+如何調整視覺化方式檢視數值範圍、美圖修修 - 轉換繪圖樣式
