@@ -35,3 +35,5 @@
 深入了解資料，從 correlation 的結果下手
 16. [EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_016_HW.ipynb)                       
 如何調整視覺化方式檢視數值範圍、美圖修修 - 轉換繪圖樣式
+17. [EDA: 把連續型變數離散化](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_017_HW.ipynb)                     
+簡化連續性變數
