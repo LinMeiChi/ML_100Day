@@ -37,3 +37,7 @@
 如何調整視覺化方式檢視數值範圍、美圖修修 - 轉換繪圖樣式
 17. [EDA: 把連續型變數離散化](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_017_HW.ipynb)                     
 簡化連續性變數
+18. [程式實作 把連續型變數離散化](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_018_HW.ipynb)                   
+深入了解資料，從簡化後的離散變數下手
+19. [Subplots](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_019_HW.ipynb)                                   
+探索性資料分析 - 資料視覺化 - 多圖檢視 1. 將數據分組一次呈現 2. 把同一組資料相關的數據一次攤在面前
