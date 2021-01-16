@@ -43,3 +43,5 @@
 探索性資料分析 - 資料視覺化 - 多圖檢視 1. 將數據分組一次呈現 2. 把同一組資料相關的數據一次攤在面前
 20. [Heatmap & Grid-plot](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_020_HW.ipynb)                         
 探索性資料分析 - 資料視覺化 - 熱像圖 / 格狀圖 1. 熱圖：以直觀的方式檢視變數間的相關性 2. 格圖：繪製變數間的散佈圖及分布
+21. [模型初體驗 Logistic Regression](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_021_HW.ipynb)             
+在我們開始使用任何複雜的模型之前，有一個最簡單的模型當作 baseline 是一個好習慣
