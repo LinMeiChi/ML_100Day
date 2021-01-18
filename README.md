@@ -53,3 +53,5 @@
 介紹機器學習完整步驟中，特徵工程的位置以及流程架構
 23. [數值型特徵 - 去除偏態](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_023_HW.ipynb)                       
 數值型特徵若分布明顯偏一邊，則需去除偏態以消除預測的偏差
+24. [類別型特徵 - 基礎處理](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_024_HW.ipynb)                       
+介紹類別型特徵最基礎的作法 : 標籤編碼與獨熱編碼
