@@ -51,3 +51,5 @@
 ##### 使用統計或領域知識，以各種組合調整方式，生成新特徵以提升模型預測力。
 22. [特徵工程簡介](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_022_HW.ipynb)                                
 介紹機器學習完整步驟中，特徵工程的位置以及流程架構
+23. [數值型特徵 - 去除偏態](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_023_HW.ipynb)                       
+數值型特徵若分布明顯偏一邊，則需去除偏態以消除預測的偏差
