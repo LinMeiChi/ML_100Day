@@ -55,3 +55,5 @@
 數值型特徵若分布明顯偏一邊，則需去除偏態以消除預測的偏差
 24. [類別型特徵 - 基礎處理](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_024_HW.ipynb)                       
 介紹類別型特徵最基礎的作法 : 標籤編碼與獨熱編碼
+25. [類別型特徵 - 均值編碼](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_025_HW.ipynb)                       
+類別型特徵最重要的編碼 : 均值編碼，將標籤以目標均值取代
