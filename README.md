@@ -57,3 +57,9 @@
 介紹類別型特徵最基礎的作法 : 標籤編碼與獨熱編碼
 25. [類別型特徵 - 均值編碼](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_025_HW.ipynb)                       
 類別型特徵最重要的編碼 : 均值編碼，將標籤以目標均值取代
+26. [類別型特徵 - 其他進階處理](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_026_HW.ipynb)                     
+類別型特徵的其他常見編碼 : 計數編碼對應出現頻率相關的特徵，雜湊編碼對應眾多類別而無法排序的特徵
+27. [時間型特徵](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_027_HW.ipynb)                                 
+時間型特徵可抽取出多個子特徵，或周期化，或取出連續時段內的次數
+28. [特徵組合 - 數值與數值組合](https://github.com/LinMeiChi/ML_100Day/blob/main/homework/Day_028_HW.ipynb)                     
+特徵組合的基礎 : 以四則運算的各種方式，組合成更具預測力的特徵
